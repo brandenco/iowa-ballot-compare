@@ -1,0 +1,106 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Iowa Ballot Compare</title>
+  <meta name="description" content="Every race on Iowa's November 3, 2026 ballot, with each candidate's positions side by side and a source for every claim.">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Archivo:wdth,wght@62..125,400..800&family=Public+Sans:ital,wght@0,400;0,600;0,700;1,400&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <a class="skip" href="#races">Skip to the races</a>
+
+  <header class="top">
+    <div class="wrap top-inner">
+      <div class="hero-copy">
+        <p class="site-name">Iowa Ballot Compare</p>
+        <h1>Who's on your ballot, and what they actually stand for.</h1>
+        <p class="lede">Every race on Iowa's November 3, 2026 general election ballot, with the candidates' positions side by side. Each position links to the reporting or statement it came from.</p>
+        <p class="countdown" id="countdown"></p>
+        <ol class="dates" aria-label="Key voting dates">
+          <li><time datetime="2026-10-14">Oct 14</time> Early in-person and mail voting begins</li>
+          <li><time datetime="2026-10-19">Oct 19</time> Last day to pre-register and to request a mailed ballot, 5 p.m.</li>
+          <li><time datetime="2026-11-03">Nov 3</time> Election Day, polls open 7 a.m. to 8 p.m.</li>
+        </ol>
+        <p class="checks">
+          <a href="https://apps.sos.iowa.gov/elections/voterreg/regtovote/search.aspx">Check your registration</a>
+          <a href="https://apps.sos.iowa.gov/elections/voterreg/pollingplace/search.aspx">Find your polling place</a>
+          <a href="https://sos.iowa.gov/voters/absentee-voting">Vote by mail</a>
+        </p>
+      </div>
+
+      <nav class="ballot" aria-label="Races on the ballot">
+        <div class="ballot-head">
+          <span>Your ballot</span>
+          <span>Nov. 3, 2026</span>
+        </div>
+        <p class="ballot-hint">Pick a race to compare its candidates.</p>
+        <ul id="ballot-list"></ul>
+      </nav>
+    </div>
+  </header>
+
+  <div class="toolbar" role="region" aria-label="View options">
+    <div class="wrap toolbar-inner">
+      <div class="seg" role="radiogroup" aria-label="Compare">
+        <button type="button" role="radio" aria-checked="true" data-view="race">By race</button>
+        <button type="button" role="radio" aria-checked="false" data-view="issue">By issue</button>
+      </div>
+      <label class="issue-pick" hidden>
+        <span>Issue</span>
+        <select id="issue-select"></select>
+      </label>
+      <label class="hide-empty">
+        <input type="checkbox" id="hide-empty">
+        <span>Hide issues where no candidate has a stated position</span>
+      </label>
+    </div>
+  </div>
+
+  <main id="races" class="wrap">
+    <div id="race-view"></div>
+    <div id="issue-view" hidden></div>
+
+    <section class="block" id="measures" aria-labelledby="measures-h"></section>
+
+    <section class="block" id="legislature" aria-labelledby="leg-h">
+      <h2 id="leg-h">Iowa Legislature</h2>
+      <p class="about">All 100 Iowa House seats and the 25 odd-numbered Senate seats are on the ballot. Which ones you vote in depends on where you live. Positions for these 245 candidates aren't summarized here; use the campaign links or search each name.</p>
+      <p><a href="https://www.legis.iowa.gov/legislators/find">Find your House and Senate districts</a> on the Iowa Legislature's site, then pick them below.</p>
+      <div class="leg-pickers">
+        <label>Senate district
+          <select id="senate-select"></select>
+        </label>
+        <label>House district
+          <select id="house-select"></select>
+        </label>
+      </div>
+      <div class="leg-results" id="leg-results" aria-live="polite"></div>
+      <details class="leg-all">
+        <summary>See every legislative race</summary>
+        <div id="leg-all"></div>
+      </details>
+    </section>
+
+    <section class="block" id="judges" aria-labelledby="judges-h"></section>
+
+    <section class="block method" aria-labelledby="method-h">
+      <h2 id="method-h">How this guide was made</h2>
+      <p>Candidate names, parties and hometowns come from the <a href="https://sos.iowa.gov/sites/default/files/2026-08/2026%20General%20-%20Candidate%20List%20Database%20-%20All%20Elections_1.pdf">Iowa Secretary of State's official candidate list</a> (updated August 19, 2026, after the deadline for parties to fill ballot vacancies). Candidates appear in the order that list uses.</p>
+      <p>Positions are short summaries of what candidates have said or how they have voted, drawn from Iowa news outlets and the candidates' own statements. Quoted words are the candidate's. Every summary links to its source. "No stated position found" means we didn't find one in the coverage we reviewed, not that the candidate has none.</p>
+      <p>This guide doesn't endorse anyone and isn't affiliated with any campaign or party. Ballots differ by county and precinct; your <a href="https://sos.iowa.gov/auditors">county auditor</a> can give you your exact sample ballot. Positions current as of <time id="updated"></time>.</p>
+    </section>
+  </main>
+
+  <footer class="foot">
+    <div class="wrap">Iowa Ballot Compare. Nonpartisan, sourced, and free to share.</div>
+  </footer>
+
+  <script src="data/races.js"></script>
+  <script src="data/legislature.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>

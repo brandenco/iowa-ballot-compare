@@ -1,0 +1,1501 @@
+{
+ "United States Senator": [
+  {
+   "name": "Ashley Hinson",
+   "party": "Republican",
+   "city": "Marion"
+  },
+  {
+   "name": "Josh Turek",
+   "party": "Democratic",
+   "city": "Council Bluffs"
+  },
+  {
+   "name": "Thomas Laehn",
+   "party": "Libertarian",
+   "city": "Jefferson"
+  }
+ ],
+ "United States Representative District 1": [
+  {
+   "name": "Mariannette Miller-Meeks",
+   "party": "Republican",
+   "city": "Ottumwa"
+  },
+  {
+   "name": "Christina Bohannan",
+   "party": "Democratic",
+   "city": "Iowa City"
+  },
+  {
+   "name": "Michael Bridgford",
+   "party": "No Party",
+   "city": "Bettendorf"
+  }
+ ],
+ "United States Representative District 2": [
+  {
+   "name": "Joe Mitchell",
+   "party": "Republican",
+   "city": "Clear Lake"
+  },
+  {
+   "name": "Lindsay James",
+   "party": "Democratic",
+   "city": "Dubuque"
+  },
+  {
+   "name": "Rick Stewart",
+   "party": "Libertarian",
+   "city": "Cedar Rapids"
+  },
+  {
+   "name": "Dave Bushaw",
+   "party": "No Party",
+   "city": "Hawkeye"
+  }
+ ],
+ "United States Representative District 3": [
+  {
+   "name": "Zach Nunn",
+   "party": "Republican",
+   "city": "Des Moines"
+  },
+  {
+   "name": "Sarah Trone Garriott",
+   "party": "Democratic",
+   "city": "Des Moines"
+  }
+ ],
+ "United States Representative District 4": [
+  {
+   "name": "Chris McGowan",
+   "party": "Republican",
+   "city": "Sioux City"
+  },
+  {
+   "name": "Dave Dawson",
+   "party": "Democratic",
+   "city": "Lawton"
+  }
+ ],
+ "Governor": [
+  {
+   "name": "Zach Lahn",
+   "party": "Republican",
+   "city": "Belle Plaine"
+  },
+  {
+   "name": "Rob Sand",
+   "party": "Democratic",
+   "city": "Des Moines"
+  }
+ ],
+ "Lieutenant Governor": [
+  {
+   "name": "Derek Wulf",
+   "party": "Republican",
+   "city": "Hudson"
+  },
+  {
+   "name": "Dave Muhlbauer",
+   "party": "Democratic",
+   "city": "Des Moines"
+  }
+ ],
+ "Secretary of State": [
+  {
+   "name": "Paul D. Pate",
+   "party": "Republican",
+   "city": "Cedar Rapids"
+  },
+  {
+   "name": "Ryan Peterman",
+   "party": "Democratic",
+   "city": "Davenport"
+  }
+ ],
+ "Auditor of State": [
+  {
+   "name": "Chris Cournoyer",
+   "party": "Republican",
+   "city": "LeClaire"
+  },
+  {
+   "name": "Taylor Wettach",
+   "party": "Democratic",
+   "city": "Muscatine"
+  }
+ ],
+ "Treasurer of State": [
+  {
+   "name": "Roby Smith",
+   "party": "Republican",
+   "city": "Davenport"
+  },
+  {
+   "name": "John Norwood",
+   "party": "Democratic",
+   "city": "West Des Moines"
+  }
+ ],
+ "Secretary of Agriculture": [
+  {
+   "name": "Mike Naig",
+   "party": "Republican",
+   "city": "Des Moines"
+  },
+  {
+   "name": "Chris Jones",
+   "party": "Democratic",
+   "city": "Iowa City"
+  }
+ ],
+ "Attorney General": [
+  {
+   "name": "Brenna Bird",
+   "party": "Republican",
+   "city": "Dexter"
+  },
+  {
+   "name": "Nate Willems",
+   "party": "Democratic",
+   "city": "Mount Vernon"
+  }
+ ],
+ "State Senator District 1": [
+  {
+   "name": "Christopher Prosch",
+   "party": "Republican",
+   "city": "Sioux City"
+  },
+  {
+   "name": "Catelin Drey",
+   "party": "Democratic",
+   "city": "Sioux City"
+  }
+ ],
+ "State Senator District 3": [
+  {
+   "name": "Lynn Evans",
+   "party": "Republican",
+   "city": "Aurelia"
+  },
+  {
+   "name": "Mike Frantz",
+   "party": "Democratic",
+   "city": "Storm Lake"
+  }
+ ],
+ "State Senator District 5": [
+  {
+   "name": "Dave Rowley",
+   "party": "Republican",
+   "city": "Spirit Lake"
+  },
+  {
+   "name": "Rachel Gravert",
+   "party": "No Party",
+   "city": "Estherville"
+  }
+ ],
+ "State Senator District 7": [
+  {
+   "name": "Kevin Alons",
+   "party": "Republican",
+   "city": "Salix"
+  }
+ ],
+ "State Senator District 9": [
+  {
+   "name": "James Uhlenkamp",
+   "party": "Democratic",
+   "city": "Mount Ayr"
+  },
+  {
+   "name": "Steve Baier",
+   "party": "Republican",
+   "city": "Griswold"
+  }
+ ],
+ "State Senator District 11": [
+  {
+   "name": "Hollie Arlene Zajicek",
+   "party": "Republican",
+   "city": "Norwalk"
+  },
+  {
+   "name": "Sinikka Waugh",
+   "party": "Democratic",
+   "city": "Indianola"
+  }
+ ],
+ "State Senator District 13": [
+  {
+   "name": "Jeff Kulmatycki",
+   "party": "Republican",
+   "city": "Centerville"
+  },
+  {
+   "name": "Brenda Case",
+   "party": "Democratic",
+   "city": "Ottumwa"
+  }
+ ],
+ "State Senator District 15": [
+  {
+   "name": "Tony Bisignano",
+   "party": "Democratic",
+   "city": "Des Moines"
+  }
+ ],
+ "State Senator District 17": [
+  {
+   "name": "Ronald Langston",
+   "party": "Republican",
+   "city": "Des Moines"
+  },
+  {
+   "name": "Samy El-Baroudi",
+   "party": "Democratic",
+   "city": "Des Moines"
+  }
+ ],
+ "State Senator District 19": [
+  {
+   "name": "Barb Kniff McCulla",
+   "party": "Republican",
+   "city": "Pella"
+  },
+  {
+   "name": "Zachary Mecham",
+   "party": "Democratic",
+   "city": "Pleasantville"
+  }
+ ],
+ "State Senator District 21": [
+  {
+   "name": "John Hollinrake",
+   "party": "Republican",
+   "city": "Ankeny"
+  },
+  {
+   "name": "Heather Matson",
+   "party": "Democratic",
+   "city": "Ankeny"
+  }
+ ],
+ "State Senator District 23": [
+  {
+   "name": "Tony Thompson",
+   "party": "Democratic",
+   "city": "Elkhart"
+  },
+  {
+   "name": "Wes Enos",
+   "party": "Republican",
+   "city": "Bondurant"
+  }
+ ],
+ "State Senator District 25": [
+  {
+   "name": "Paul Wacker",
+   "party": "Republican",
+   "city": "Ames"
+  },
+  {
+   "name": "Herman C Quirmbach",
+   "party": "Democratic",
+   "city": "Ames"
+  }
+ ],
+ "State Senator District 27": [
+  {
+   "name": "Annette Sweeney",
+   "party": "Republican",
+   "city": "Iowa Falls"
+  }
+ ],
+ "State Senator District 29": [
+  {
+   "name": "Sandy Salmon",
+   "party": "Republican",
+   "city": "Janesville"
+  },
+  {
+   "name": "Jim Vowels",
+   "party": "Democratic",
+   "city": "Waverly"
+  }
+ ],
+ "State Senator District 31": [
+  {
+   "name": "Timi Brown Powers",
+   "party": "Democratic",
+   "city": "Waterloo"
+  }
+ ],
+ "State Senator District 33": [
+  {
+   "name": "Carrie Koelker",
+   "party": "Republican",
+   "city": "Dyersville"
+  },
+  {
+   "name": "Mary Ungs-Sogaard",
+   "party": "Democratic",
+   "city": "Dyersville"
+  }
+ ],
+ "State Senator District 35": [
+  {
+   "name": "Joe Stutting",
+   "party": "Republican",
+   "city": "Princeton"
+  },
+  {
+   "name": "Mike Zimmer",
+   "party": "Democratic",
+   "city": "DeWitt"
+  }
+ ],
+ "State Senator District 37": [
+  {
+   "name": "Randy Marzen",
+   "party": "Republican",
+   "city": "Marion"
+  },
+  {
+   "name": "Molly Donahue",
+   "party": "Democratic",
+   "city": "Cedar Rapids"
+  }
+ ],
+ "State Senator District 39": [
+  {
+   "name": "Edward Bernie Hayes",
+   "party": "Republican",
+   "city": "Cedar Rapids"
+  },
+  {
+   "name": "Liz Bennett",
+   "party": "Democratic",
+   "city": "Cedar Rapids"
+  }
+ ],
+ "State Senator District 41": [
+  {
+   "name": "Kerry Gruenhagen",
+   "party": "Republican",
+   "city": "Walcott"
+  },
+  {
+   "name": "Tom Wieck",
+   "party": "Democratic",
+   "city": "West Liberty"
+  }
+ ],
+ "State Senator District 43": [
+  {
+   "name": "Meghann Foster",
+   "party": "Democratic",
+   "city": "Coralville"
+  }
+ ],
+ "State Senator District 45": [
+  {
+   "name": "Janice Weiner",
+   "party": "Democratic",
+   "city": "Iowa City"
+  }
+ ],
+ "State Senator District 47": [
+  {
+   "name": "Scott Webster",
+   "party": "Republican",
+   "city": "Davenport"
+  },
+  {
+   "name": "Nikhil Wagle",
+   "party": "Democratic",
+   "city": "Bettendorf"
+  }
+ ],
+ "State Senator District 49": [
+  {
+   "name": "Cynthia Mensendick",
+   "party": "Republican",
+   "city": "Blue Grass"
+  },
+  {
+   "name": "Cindy Winckler",
+   "party": "Democratic",
+   "city": "Davenport"
+  }
+ ],
+ "State Representative District 1": [
+  {
+   "name": "Josh Steinhoff",
+   "party": "Republican",
+   "city": "Sioux City"
+  },
+  {
+   "name": "Shawn Olorundami",
+   "party": "Democratic",
+   "city": "Sioux City"
+  }
+ ],
+ "State Representative District 2": [
+  {
+   "name": "Robert Henderson",
+   "party": "Republican",
+   "city": "Sioux City"
+  },
+  {
+   "name": "Jessica Lopez-Walker",
+   "party": "Democratic",
+   "city": "Sioux City"
+  }
+ ],
+ "State Representative District 3": [
+  {
+   "name": "Robert Driesen",
+   "party": "Republican",
+   "city": "Ireton"
+  }
+ ],
+ "State Representative District 4": [
+  {
+   "name": "Skyler Wheeler",
+   "party": "Republican",
+   "city": "Hull"
+  },
+  {
+   "name": "Garth Van Donselaar",
+   "party": "No Party",
+   "city": "Sioux Center"
+  }
+ ],
+ "State Representative District 5": [
+  {
+   "name": "Keith Glienke",
+   "party": "Republican",
+   "city": "Aurelia"
+  },
+  {
+   "name": "Stephanie Steiner",
+   "party": "Democratic",
+   "city": "Sutherland"
+  }
+ ],
+ "State Representative District 6": [
+  {
+   "name": "Megan Jones",
+   "party": "Republican",
+   "city": "Sioux Rapids"
+  }
+ ],
+ "State Representative District 7": [
+  {
+   "name": "Wendy Larson",
+   "party": "Republican",
+   "city": "Odebolt"
+  },
+  {
+   "name": "Rachel Burns",
+   "party": "Democratic",
+   "city": "Odebolt"
+  }
+ ],
+ "State Representative District 8": [
+  {
+   "name": "Ann Meyer",
+   "party": "Republican",
+   "city": "Fort Dodge"
+  },
+  {
+   "name": "Kristofer Williams",
+   "party": "Democratic",
+   "city": "Fort Dodge"
+  }
+ ],
+ "State Representative District 9": [
+  {
+   "name": "Henry Stone",
+   "party": "Republican",
+   "city": "Forest City"
+  }
+ ],
+ "State Representative District 10": [
+  {
+   "name": "John H Wills",
+   "party": "Republican",
+   "city": "Spirit Lake"
+  }
+ ],
+ "State Representative District 11": [
+  {
+   "name": "Craig Williams",
+   "party": "Republican",
+   "city": "Manning"
+  },
+  {
+   "name": "Bill Owen",
+   "party": "Democratic",
+   "city": "Harlan"
+  }
+ ],
+ "State Representative District 12": [
+  {
+   "name": "Steven Holt",
+   "party": "Republican",
+   "city": "Denison"
+  },
+  {
+   "name": "Dustin Durbin",
+   "party": "Democratic",
+   "city": "Dow City"
+  }
+ ],
+ "State Representative District 13": [
+  {
+   "name": "Travis M. Sitzmann",
+   "party": "Republican",
+   "city": "Kingsley"
+  }
+ ],
+ "State Representative District 14": [
+  {
+   "name": "Jacob Bossman",
+   "party": "Republican",
+   "city": "Sioux City"
+  }
+ ],
+ "State Representative District 15": [
+  {
+   "name": "Jason Sherer",
+   "party": "Republican",
+   "city": "Pisgah"
+  },
+  {
+   "name": "Benjamin Schauer",
+   "party": "Democratic",
+   "city": "Dunlap"
+  },
+  {
+   "name": "Blake Johnson",
+   "party": "No Party",
+   "city": "Council Bluffs"
+  },
+  {
+   "name": "Marilyn J Mentzer",
+   "party": "No Party",
+   "city": "Logan"
+  }
+ ],
+ "State Representative District 16": [
+  {
+   "name": "David A. Sieck",
+   "party": "Republican",
+   "city": "Glenwood"
+  },
+  {
+   "name": "Jack Goodman",
+   "party": "Democratic",
+   "city": "Glenwood"
+  }
+ ],
+ "State Representative District 17": [
+  {
+   "name": "Devon Wood",
+   "party": "Republican",
+   "city": "New Market"
+  }
+ ],
+ "State Representative District 18": [
+  {
+   "name": "Thomas Jay Moore",
+   "party": "Republican",
+   "city": "Griswold"
+  },
+  {
+   "name": "Tripp Narup",
+   "party": "Democratic",
+   "city": "Villisca"
+  }
+ ],
+ "State Representative District 19": [
+  {
+   "name": "Brent Siegrist",
+   "party": "Republican",
+   "city": "Council Bluffs"
+  },
+  {
+   "name": "Benjamin Thomas Larson",
+   "party": "Democratic",
+   "city": "Council Bluffs"
+  }
+ ],
+ "State Representative District 20": [
+  {
+   "name": "Keith Jones",
+   "party": "Republican",
+   "city": "Council Bluffs"
+  },
+  {
+   "name": "Eric Armstrong",
+   "party": "Democratic",
+   "city": "Council Bluffs"
+  }
+ ],
+ "State Representative District 21": [
+  {
+   "name": "Brooke Boden",
+   "party": "Republican",
+   "city": "Indianola"
+  },
+  {
+   "name": "Spencer A Waugh",
+   "party": "Democratic",
+   "city": "Indianola"
+  }
+ ],
+ "State Representative District 22": [
+  {
+   "name": "Samantha Fett",
+   "party": "Republican",
+   "city": "Carlisle"
+  },
+  {
+   "name": "Rory Taylor",
+   "party": "Democratic",
+   "city": "Norwalk"
+  }
+ ],
+ "State Representative District 23": [
+  {
+   "name": "Ray Bubba Sorensen",
+   "party": "Republican",
+   "city": "Greenfield"
+  },
+  {
+   "name": "Karen Varley",
+   "party": "Democratic",
+   "city": "Stuart"
+  }
+ ],
+ "State Representative District 24": [
+  {
+   "name": "Sam Wengryn",
+   "party": "Republican",
+   "city": "Davis City / Pleasanton"
+  },
+  {
+   "name": "Sonya Hicks",
+   "party": "Democratic",
+   "city": "Osceola"
+  }
+ ],
+ "State Representative District 25": [
+  {
+   "name": "Hans C. Wilz",
+   "party": "Republican",
+   "city": "Ottumwa"
+  },
+  {
+   "name": "Kolton Jones",
+   "party": "Democratic",
+   "city": "Ottumwa"
+  }
+ ],
+ "State Representative District 26": [
+  {
+   "name": "Austin Harris",
+   "party": "Republican",
+   "city": "Moulton"
+  },
+  {
+   "name": "Brett Mohler",
+   "party": "Democratic",
+   "city": "Albia"
+  }
+ ],
+ "State Representative District 27": [
+  {
+   "name": "Kenan Judge",
+   "party": "Democratic",
+   "city": "Waukee"
+  }
+ ],
+ "State Representative District 28": [
+  {
+   "name": "David Young",
+   "party": "Republican",
+   "city": "Van Meter"
+  },
+  {
+   "name": "Tom Walton",
+   "party": "Democratic",
+   "city": "Waukee"
+  }
+ ],
+ "State Representative District 29": [
+  {
+   "name": "Brian Meyer",
+   "party": "Democratic",
+   "city": "Des Moines"
+  }
+ ],
+ "State Representative District 30": [
+  {
+   "name": "Megan L. Srinivas",
+   "party": "Democratic",
+   "city": "Des Moines"
+  }
+ ],
+ "State Representative District 31": [
+  {
+   "name": "Kevin W. DuBay",
+   "party": "Republican",
+   "city": "West Des Moines"
+  },
+  {
+   "name": "Mary Madison",
+   "party": "Democratic",
+   "city": "West Des Moines"
+  }
+ ],
+ "State Representative District 32": [
+  {
+   "name": "Mike Jones",
+   "party": "Democratic",
+   "city": "Windsor Heights"
+  }
+ ],
+ "State Representative District 33": [
+  {
+   "name": "Lynn Hammel",
+   "party": "Republican",
+   "city": "Des Moines"
+  },
+  {
+   "name": "Ivette Muhammad",
+   "party": "Democratic",
+   "city": "Des Moines"
+  }
+ ],
+ "State Representative District 34": [
+  {
+   "name": "Rob Johnson",
+   "party": "Democratic",
+   "city": "Des Moines"
+  }
+ ],
+ "State Representative District 35": [
+  {
+   "name": "Sean Bagniewski",
+   "party": "Democratic",
+   "city": "Des Moines"
+  }
+ ],
+ "State Representative District 36": [
+  {
+   "name": "Bruce A Michalowski",
+   "party": "Republican",
+   "city": "Des Moines"
+  },
+  {
+   "name": "Austin Baeth",
+   "party": "Democratic",
+   "city": "Des Moines"
+  }
+ ],
+ "State Representative District 37": [
+  {
+   "name": "Jason Sandholdt",
+   "party": "Republican",
+   "city": "Otley"
+  }
+ ],
+ "State Representative District 38": [
+  {
+   "name": "Matthew Oleson",
+   "party": "Republican",
+   "city": "Grinnell"
+  },
+  {
+   "name": "Brad Magg",
+   "party": "Democratic",
+   "city": "Colfax"
+  }
+ ],
+ "State Representative District 39": [
+  {
+   "name": "Troy Clark",
+   "party": "Republican",
+   "city": "Pleasant Hill"
+  },
+  {
+   "name": "Nate Boulton",
+   "party": "Democratic",
+   "city": "Des Moines"
+  }
+ ],
+ "State Representative District 40": [
+  {
+   "name": "Bill Gustoff",
+   "party": "Republican",
+   "city": "Des Moines"
+  },
+  {
+   "name": "Heather Sievers",
+   "party": "Democratic",
+   "city": "Altoona"
+  }
+ ],
+ "State Representative District 41": [
+  {
+   "name": "Ryan Weldon",
+   "party": "Republican",
+   "city": "Ankeny"
+  },
+  {
+   "name": "Molly Buck",
+   "party": "Democratic",
+   "city": "Ankeny"
+  }
+ ],
+ "State Representative District 42": [
+  {
+   "name": "Heather Stephenson",
+   "party": "Republican",
+   "city": "Ankeny"
+  },
+  {
+   "name": "Amy Tagliareni",
+   "party": "Democratic",
+   "city": "Ankeny"
+  }
+ ],
+ "State Representative District 43": [
+  {
+   "name": "Nicole Hasso",
+   "party": "Republican",
+   "city": "Johnston"
+  },
+  {
+   "name": "Jill Alesch",
+   "party": "Democratic",
+   "city": "Johnston"
+  }
+ ],
+ "State Representative District 44": [
+  {
+   "name": "Larry McBurney",
+   "party": "Democratic",
+   "city": "Urbandale"
+  }
+ ],
+ "State Representative District 45": [
+  {
+   "name": "Austin Stubbs",
+   "party": "Republican",
+   "city": "Bondurant"
+  },
+  {
+   "name": "Kendra Haug",
+   "party": "Democratic",
+   "city": "Bondurant"
+  }
+ ],
+ "State Representative District 46": [
+  {
+   "name": "Dan Gehlbach",
+   "party": "Republican",
+   "city": "Urbandale"
+  },
+  {
+   "name": "Mandy Newton Rosenow",
+   "party": "Democratic",
+   "city": "Urbandale"
+  }
+ ],
+ "State Representative District 47": [
+  {
+   "name": "Carter F. Nordman",
+   "party": "Republican",
+   "city": "Dallas Center"
+  },
+  {
+   "name": "Chris New",
+   "party": "Democratic",
+   "city": "Dallas Center"
+  }
+ ],
+ "State Representative District 48": [
+  {
+   "name": "Chad Behn",
+   "party": "Republican",
+   "city": "Boone"
+  },
+  {
+   "name": "Benjamin Olsen",
+   "party": "Democratic",
+   "city": "Ames"
+  }
+ ],
+ "State Representative District 49": [
+  {
+   "name": "Beth Wessel-Kroeschell",
+   "party": "Democratic",
+   "city": "Ames"
+  }
+ ],
+ "State Representative District 50": [
+  {
+   "name": "Ross Wilburn",
+   "party": "Democratic",
+   "city": "Ames"
+  }
+ ],
+ "State Representative District 51": [
+  {
+   "name": "Brett Barker",
+   "party": "Republican",
+   "city": "Nevada"
+  },
+  {
+   "name": "Teresa Perin",
+   "party": "Democratic",
+   "city": "Rhodes"
+  }
+ ],
+ "State Representative District 52": [
+  {
+   "name": "David Blom",
+   "party": "Republican",
+   "city": "Marshalltown"
+  },
+  {
+   "name": "Mike Tupper",
+   "party": "Democratic",
+   "city": "Marshalltown"
+  }
+ ],
+ "State Representative District 53": [
+  {
+   "name": "Dean Fisher",
+   "party": "Republican",
+   "city": "Montour"
+  },
+  {
+   "name": "Berleen Wobeter",
+   "party": "Democratic",
+   "city": "Toledo"
+  }
+ ],
+ "State Representative District 54": [
+  {
+   "name": "Joshua Meggers",
+   "party": "Republican",
+   "city": "Grundy Center"
+  },
+  {
+   "name": "Leila Ann Staton",
+   "party": "Democratic",
+   "city": "Reinbeck"
+  }
+ ],
+ "State Representative District 55": [
+  {
+   "name": "Beau Klaver",
+   "party": "Republican",
+   "city": "Kamrar"
+  },
+  {
+   "name": "Cynthia Oppedal Paschen",
+   "party": "Democratic",
+   "city": "Jewell"
+  }
+ ],
+ "State Representative District 56": [
+  {
+   "name": "Mark I. Thompson",
+   "party": "Republican",
+   "city": "Belmond"
+  },
+  {
+   "name": "Kyle Kruse",
+   "party": "Democratic",
+   "city": "Hardy"
+  }
+ ],
+ "State Representative District 57": [
+  {
+   "name": "Pat Grassley",
+   "party": "Republican",
+   "city": "New Hartford"
+  },
+  {
+   "name": "Shawn Ellerbroek",
+   "party": "Democratic",
+   "city": "Waverly"
+  }
+ ],
+ "State Representative District 58": [
+  {
+   "name": "Charley Thomson",
+   "party": "Republican",
+   "city": "Charles City"
+  },
+  {
+   "name": "India May",
+   "party": "Democratic",
+   "city": "Ionia"
+  }
+ ],
+ "State Representative District 59": [
+  {
+   "name": "Christian Hermanson",
+   "party": "Republican",
+   "city": "Mason City"
+  },
+  {
+   "name": "Jacob Welper",
+   "party": "Democratic",
+   "city": "Mason City"
+  }
+ ],
+ "State Representative District 60": [
+  {
+   "name": "Dani Ollenburg",
+   "party": "Republican",
+   "city": "Clear Lake"
+  },
+  {
+   "name": "Alexander Schmidt",
+   "party": "Democratic",
+   "city": "St. Ansgar"
+  }
+ ],
+ "State Representative District 61": [
+  {
+   "name": "Vincent Collis",
+   "party": "Democratic",
+   "city": "Waterloo"
+  },
+  {
+   "name": "Lucas Hewitt",
+   "party": "No Party",
+   "city": "Waterloo"
+  }
+ ],
+ "State Representative District 62": [
+  {
+   "name": "Jerome Amos Jr",
+   "party": "Democratic",
+   "city": "Waterloo"
+  }
+ ],
+ "State Representative District 63": [
+  {
+   "name": "Michael R. Bergan",
+   "party": "Republican",
+   "city": "Dorchester"
+  },
+  {
+   "name": "Jeff Thurlow",
+   "party": "Democratic",
+   "city": "Decorah"
+  }
+ ],
+ "State Representative District 64": [
+  {
+   "name": "Jason Gearhart",
+   "party": "Republican",
+   "city": "Strawberry Point"
+  },
+  {
+   "name": "Brian Bruening",
+   "party": "Democratic",
+   "city": "Elkader"
+  }
+ ],
+ "State Representative District 65": [
+  {
+   "name": "Shannon Lundgren",
+   "party": "Republican",
+   "city": "Peosta"
+  },
+  {
+   "name": "Carolyn Wiezorek",
+   "party": "Democratic",
+   "city": "Dubuque"
+  }
+ ],
+ "State Representative District 66": [
+  {
+   "name": "Steven Bradley",
+   "party": "Republican",
+   "city": "Cascade"
+  },
+  {
+   "name": "Matt English",
+   "party": "Democratic",
+   "city": "Anamosa"
+  }
+ ],
+ "State Representative District 67": [
+  {
+   "name": "Craig Johnson",
+   "party": "Republican",
+   "city": "Independence"
+  },
+  {
+   "name": "Michael Coonrad",
+   "party": "Democratic",
+   "city": "Independence"
+  }
+ ],
+ "State Representative District 68": [
+  {
+   "name": "Chad Ingels",
+   "party": "Republican",
+   "city": "Randalia"
+  },
+  {
+   "name": "Scott Bodley",
+   "party": "Democratic",
+   "city": "Hawkeye"
+  }
+ ],
+ "State Representative District 69": [
+  {
+   "name": "Tom Determann",
+   "party": "Republican",
+   "city": "Camanche"
+  },
+  {
+   "name": "Randy Meier",
+   "party": "Democratic",
+   "city": "Clinton"
+  }
+ ],
+ "State Representative District 70": [
+  {
+   "name": "Norlin Mommsen",
+   "party": "Republican",
+   "city": "DeWitt"
+  },
+  {
+   "name": "George Pickup",
+   "party": "Democratic",
+   "city": "Delmar"
+  }
+ ],
+ "State Representative District 71": [
+  {
+   "name": "Sam Wooden",
+   "party": "Democratic",
+   "city": "Dubuque"
+  }
+ ],
+ "State Representative District 72": [
+  {
+   "name": "Jennifer Smith",
+   "party": "Republican",
+   "city": "Dubuque"
+  },
+  {
+   "name": "Matt Robinson",
+   "party": "Democratic",
+   "city": "Dubuque"
+  }
+ ],
+ "State Representative District 73": [
+  {
+   "name": "Elizabeth Wilson",
+   "party": "Democratic",
+   "city": "Marion"
+  }
+ ],
+ "State Representative District 74": [
+  {
+   "name": "Eric Gjerde",
+   "party": "Democratic",
+   "city": "Cedar Rapids"
+  }
+ ],
+ "State Representative District 75": [
+  {
+   "name": "Drew Stensland",
+   "party": "Democratic",
+   "city": "Cedar Falls"
+  }
+ ],
+ "State Representative District 76": [
+  {
+   "name": "Matt Reisetter",
+   "party": "Republican",
+   "city": "Cedar Falls"
+  },
+  {
+   "name": "Calvin Horn",
+   "party": "Democratic",
+   "city": "Waterloo"
+  }
+ ],
+ "State Representative District 77": [
+  {
+   "name": "Jeff Cooling",
+   "party": "Democratic",
+   "city": "Cedar Rapids"
+  }
+ ],
+ "State Representative District 78": [
+  {
+   "name": "Angel Ramirez",
+   "party": "Democratic",
+   "city": "Cedar Rapids"
+  }
+ ],
+ "State Representative District 79": [
+  {
+   "name": "Barclay Woerner",
+   "party": "Republican",
+   "city": "Cedar Rapids"
+  },
+  {
+   "name": "Tracy Ehlert",
+   "party": "Democratic",
+   "city": "Cedar Rapids"
+  }
+ ],
+ "State Representative District 80": [
+  {
+   "name": "Aime J Wichtendahl",
+   "party": "Democratic",
+   "city": "Hiawatha"
+  }
+ ],
+ "State Representative District 81": [
+  {
+   "name": "Dillon Fillion",
+   "party": "Republican",
+   "city": "Davenport"
+  },
+  {
+   "name": "Daniel Gosa",
+   "party": "Democratic",
+   "city": "Davenport"
+  }
+ ],
+ "State Representative District 82": [
+  {
+   "name": "Bobby Kaufmann",
+   "party": "Republican",
+   "city": "Wilton"
+  },
+  {
+   "name": "James Behrmann",
+   "party": "Democratic",
+   "city": "Atalissa"
+  }
+ ],
+ "State Representative District 83": [
+  {
+   "name": "Cindy Golding",
+   "party": "Republican",
+   "city": "Cedar Rapids"
+  },
+  {
+   "name": "Mike Bergman",
+   "party": "Democratic",
+   "city": "Mount Vernon"
+  }
+ ],
+ "State Representative District 84": [
+  {
+   "name": "Thomas Gerhold",
+   "party": "Republican",
+   "city": "Atkins"
+  },
+  {
+   "name": "Polly Denison",
+   "party": "Democratic",
+   "city": "Van Horne"
+  }
+ ],
+ "State Representative District 85": [
+  {
+   "name": "Amy Nielsen",
+   "party": "Democratic",
+   "city": "North Liberty"
+  }
+ ],
+ "State Representative District 86": [
+  {
+   "name": "Dave Jacoby",
+   "party": "Democratic",
+   "city": "Coralville"
+  }
+ ],
+ "State Representative District 87": [
+  {
+   "name": "Jeff Shipley",
+   "party": "Republican",
+   "city": "Birmingham"
+  },
+  {
+   "name": "Thomas R. O'Donnell",
+   "party": "Democratic",
+   "city": "Keosauqua"
+  }
+ ],
+ "State Representative District 88": [
+  {
+   "name": "Helena Hayes",
+   "party": "Republican",
+   "city": "New Sharon"
+  }
+ ],
+ "State Representative District 89": [
+  {
+   "name": "Elinor A. Levin",
+   "party": "Democratic",
+   "city": "Iowa City"
+  },
+  {
+   "name": "Daniel Arch",
+   "party": "No Party",
+   "city": "Iowa City"
+  }
+ ],
+ "State Representative District 90": [
+  {
+   "name": "Adam Zabner",
+   "party": "Democratic",
+   "city": "Iowa City"
+  }
+ ],
+ "State Representative District 91": [
+  {
+   "name": "Judd Lawler",
+   "party": "Republican",
+   "city": "Tiffin"
+  },
+  {
+   "name": "Mark Divitt",
+   "party": "Democratic",
+   "city": "Swisher"
+  }
+ ],
+ "State Representative District 92": [
+  {
+   "name": "Heather Hora",
+   "party": "Republican",
+   "city": "Washington"
+  },
+  {
+   "name": "Brittany Erickson",
+   "party": "Democratic",
+   "city": "Washington"
+  }
+ ],
+ "State Representative District 93": [
+  {
+   "name": "Gary M. Mohr",
+   "party": "Republican",
+   "city": "Bettendorf"
+  },
+  {
+   "name": "Keith Soko",
+   "party": "Democratic",
+   "city": "Bettendorf"
+  }
+ ],
+ "State Representative District 94": [
+  {
+   "name": "Mike Vondran",
+   "party": "Republican",
+   "city": "Davenport"
+  },
+  {
+   "name": "Karen Roebuck",
+   "party": "Democratic",
+   "city": "Davenport"
+  }
+ ],
+ "State Representative District 95": [
+  {
+   "name": "Taylor Collins",
+   "party": "Republican",
+   "city": "Mediapolis"
+  },
+  {
+   "name": "Carrie Trevino",
+   "party": "Democratic",
+   "city": "Columbus Junction"
+  }
+ ],
+ "State Representative District 96": [
+  {
+   "name": "Mark Cisneros",
+   "party": "Republican",
+   "city": "Muscatine"
+  },
+  {
+   "name": "Nick Salazar",
+   "party": "Democratic",
+   "city": "Muscatine"
+  }
+ ],
+ "State Representative District 97": [
+  {
+   "name": "Charlie Helmick",
+   "party": "Republican",
+   "city": "Davenport"
+  },
+  {
+   "name": "Adam Peters",
+   "party": "Democratic",
+   "city": "Davenport"
+  }
+ ],
+ "State Representative District 98": [
+  {
+   "name": "Nathan Ramker",
+   "party": "Republican",
+   "city": "Blue Grass"
+  },
+  {
+   "name": "Andrew Fitzgerald",
+   "party": "Democratic",
+   "city": "Davenport"
+  }
+ ],
+ "State Representative District 99": [
+  {
+   "name": "Matthew Rinker",
+   "party": "Republican",
+   "city": "Burlington"
+  },
+  {
+   "name": "Jennifer Kirkman",
+   "party": "Democratic",
+   "city": "Burlington"
+  }
+ ],
+ "State Representative District 100": [
+  {
+   "name": "Blaine Watkins",
+   "party": "Republican",
+   "city": "Donnellson"
+  },
+  {
+   "name": "Matthew Mohrfeld",
+   "party": "Democratic",
+   "city": "Fort Madison"
+  }
+ ]
+}
